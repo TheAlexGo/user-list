@@ -3,4 +3,4 @@
 
 Для запуска решения выполните следующие действия:
 - (в cmd/terminal) git clone https://github.com/TheAlexGo/user-list.git
-- Открыть файл index.html в браузере
+- В появившейся дирректории, открыть файл index.html в браузере
